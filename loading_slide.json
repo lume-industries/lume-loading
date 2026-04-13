@@ -1,0 +1,25 @@
+{
+  "abi_version": 3,
+  "assets": {
+    "art": {
+      "j_card": {
+        "path": "art/j-card.svg",
+        "label": "Placeholder J-card"
+      },
+      "side_a_label": {
+        "path": "art/side-a.svg",
+        "label": "Placeholder side A label"
+      },
+      "side_b_label": {
+        "path": "art/side-b.svg",
+        "label": "Placeholder side B label"
+      }
+    }
+  },
+  "author": "LUME",
+  "description": "Loading screen slide compiled from Rust to wasm32-wasip1",
+  "name": "Loading",
+  "params": {},
+  "scene_space": "screen_2d",
+  "version": "1.0.0"
+}
